@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Багатовимірні динамічні масиви/Багатовимірні динамічні масиви.vcxproj" />
+</Solution>
